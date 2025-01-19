@@ -54,4 +54,4 @@ The code we executed can be extended to dynamically fetch real-time weather data
 In conclusion, this code demonstrates how matplotlib.pyplot can transform raw weather data into an informative and visually appealing representation, making it accessible and useful for various audiences.*
 
 *OUTPUT*:
-![Image](https://github.com/user-attachments/assets/0b09a2ce-f7cb-4fdf-ac27-81e416b1cb87)
+![Image](https://github.com/user-attachments/assets/f86a5f81-5174-4774-b8b0-5d782c3b5404)
